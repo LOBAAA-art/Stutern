@@ -1,0 +1,41 @@
+<h1> Terminal Basics Exercises </h1>
+<h2> Part 1 </h2>
+<p>
+  <ul>
+    <li>cd</li>
+    <li>cd/desktop</li>
+  </ul>
+  <ol>
+    <li>mkdir first</li>
+    <li>cd first</li>
+    <li>touch person.txt</li>
+    <li>mv person.txt another.txt</li>
+    <li>cp another.txt copy.txt</li>
+    <li>rm copy.txt</li>
+    <li>cp -r first second </li>
+    <li>rm -rf second</li>
+  </ol>
+</p>
+
+<h2> Part 2 </h2>
+<p>
+  <ol>
+    <li>
+      <ul>
+        <li> man command displays the manual for any command while man rm removes the command </li>
+        <li> scroll by using the arrow keys and get out by using "q"</li>
+      </ul> </li>
+    <li> '-l' flag gives us more information about each file while '-a' flag list all files </li>
+    <li>curl https://www.google.com > google.html</li>
+    <li></li>
+    <li> /pattern search forward for (N-th) matching line</li>
+    <li>Ctrl-Right Arrow or Ctrl-Left Arrow</li>
+    <li>END or ESC-$</LI>
+    <li>HOME OR ESC-0</li>
+    <li>Ctrl-BACKSPACE or ESC-BACKSPACE</li>
+    <li>A Terminal is a wrapper program which runs a shell while a Shell is the program which processes commands and returns output.</li>
+    <li>An absolute path starts with the root directory.</li>
+    <li>Relative Path is the hierarchical path that locates a file or folder on a file system starting from the current directory</li>
+    <li>Flags are used to change and even enhance commands e.g -a,-l,-f</li>
+</ol>
+</p>
